@@ -1,3 +1,9 @@
+# Streaming web app that recreates Netflix, using React, Redux and Firebase
+
+Link to check web app [my_netflix](https://netflix-clone-46ed2.web.app/)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
